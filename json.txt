@@ -1,0 +1,62 @@
+{
+  "VendorMasterDetails": {
+    "name": "",
+    "vendorId": "FAC-4004",
+    "vendorIdSerialNumber": 0,
+    "vendorName": "dfhfd",
+    "vendorType": 0,
+    "vendorCategory": 0,
+    "subsidiary": "",
+    "phone": "988989895",
+    "mobile": "",
+    "email": "djfksfjh@gmail.com",
+    "web": "",
+    "isActive": false,
+    "cin": "",
+    "tan": "",
+    "tds": "",
+    "isActiveGc": false,
+    "isActiveOrm": false,
+    "terms": "",
+    "incoTerms": "",
+    "comments": ""
+  },
+  "ContactDetails": {
+    "name": "NeerajAvinash",
+    "email": "djfksfjh@gmail.com"
+  },
+  "AddressDetails": {
+    "addressLine1": "fgsdfg",
+    "addressLine2": "fgsfhf",
+    "city": "",
+    "state": "Cabinda",
+    "country": "Angola",
+    "zip": ""
+  },
+  "BankAccountDetails": {
+    "groupId": "FAC-10",
+    "groupCode": "STORES & SPARES SUPPLIERS",
+    "panNumber": "",
+    "bankName": "hdfc bank ltd",
+    "accountType": "",
+    "accountNumber": "",
+    "ifscCode": "",
+    "micrCode": "",
+    "branch": "",
+    "gstin": "",
+    "msme": "",
+    "legacyId": "",
+    "autoGenId": "",
+    "password": "",
+    "gstNo": ""
+  }
+}
+
+
+echo "# VS-Codes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kosurupavan/VS-Codes.git
+git push -u origin main
